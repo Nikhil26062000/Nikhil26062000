@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil26062000" alt="nikhil26062000" /></a> </p>
 
-- 🔭 I’m currently working on [WHATSAPP-CLONE](https://github.com/Nikhil26062000/Whatsapp-Clone-v1.0)
+- 🔭 I’m currently working on [WhatsApp web-CLONE ✌️](https://github.com/Nikhil26062000/Whatsapp-Clone-v1.0)
 
 - 🌱 I’m currently learning **Next.JS**
 
