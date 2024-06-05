@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil26062000&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil26062000" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Next.JS**
 
-- 👯 I’m looking to collaborate on **FRONTEND PROJECTS**
+- 👯 I’m looking to collaborate on **FULL STACK PROJECTS**
 
 - 👨‍💻 All of my projects are available at [https://nikhil26062000.github.io/Portfolio/](https://nikhil26062000.github.io/Portfolio/)
 
-- 💬 Ask me about **React.js , Javascript**
+- 💬 Ask me about **React.js , Javascript **
 
 - 📫 How to reach me **nikhilsbn06@gmail.com**
 
