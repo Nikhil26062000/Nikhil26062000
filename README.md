@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nikhilsbn06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n9gCta4iUrn_jWpu5hY7H--6GAITyMk6/view](https://drive.google.com/file/d/1n9gCta4iUrn_jWpu5hY7H--6GAITyMk6/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1n9gCta4iUrn_jWpu5hY7H--6GAITyMk6/view](https://drive.google.com/file/d/19U2g2TUcOgh8_qpjjc-jA2rj1GUs7xrk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
