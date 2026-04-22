@@ -13,8 +13,9 @@
 - 🔧 Specialized in building **scalable web applications**
 - ☁️ Hands-on with **AWS (EC2, S3, RDS) & cloud deployments**
 - ⚙️ Experienced in **Docker, CI/CD pipelines & server management**
+- 🔄 Building workflow automations using **n8n (APIs, webhooks, integrations)**
 - 🐞 Strong debugging & performance optimization skills
-- 🌱 Currently exploring **Next.js & system design**
+- 🌱 Exploring **Next.js & system design**
 
 ---
 
@@ -35,6 +36,9 @@
 - CI/CD Pipelines
 - Nginx, Server Deployment
 
+**Automation**
+- n8n (Workflow Automation, API Integrations)
+
 **Tools**
 - Git, Postman, Linux
 
@@ -50,7 +54,7 @@
 ### 🌐 Portfolio & Resume
 
 - 💻 Portfolio: https://nikhil26062000.github.io/Portfolio/
-- 📄 Resume: https://drive.google.com/file/d/19U2g2TUcOgh8_qpjjc-jA2rj1GUs7xrk/view
+- 📄 Resume: https://drive.google.com/file/d/1OfECHUUKEWLMZdnq6i7Lw95CLROKrgDM/view
 
 ---
 
